@@ -1,0 +1,76 @@
+{
+  "schema": "an-student-lottery/manifest/v1",
+  "lotteryId": "2026-student-congress",
+  "stage": "results",
+  "commitmentSha256": "223349e6eb978ffe8071f80e25cbf7aad1577f72f992d9a8daa3041008d83d60",
+  "blockHash": "0000000000000000000150125577caa2c5164b1403998b01ed555fb1b76f3d96",
+  "resultsSha256": "c928f0bc67354482c03200078c0392e6f0485eb5c11b3345040c5c9498f1f859",
+  "selectedNames": "full",
+  "files": [
+    {
+      "path": "selected/NUM.xlsx",
+      "sha256": "e5afb1adc8d6eebde136b3c61e7109729247bcc962381915f9b064af1d83355c",
+      "bytes": 8488
+    },
+    {
+      "path": "selected/MUST.xlsx",
+      "sha256": "ff3dc328a353fe107c849c8340450a0ad8b1a4149598a13067b9b4a6bf3ee941",
+      "bytes": 8270
+    },
+    {
+      "path": "selected/MNUE.xlsx",
+      "sha256": "44371f967832d3c8173410cf33a625428a3e0bafb83da81efa7b4ccc9d9aed30",
+      "bytes": 8105
+    },
+    {
+      "path": "selected/MULS.xlsx",
+      "sha256": "7473622fe220fb41d255a884ac7d75317e8f24e885b2914de70da07376111480",
+      "bytes": 7903
+    },
+    {
+      "path": "selected/MNUMS.xlsx",
+      "sha256": "b44de0e4debca98272c33351be62ed4435972b7d8c9d9200aaf71f4f988d7686",
+      "bytes": 8182
+    },
+    {
+      "path": "selected/MNUAC.xlsx",
+      "sha256": "9b0fa86f034f975631c17e8abbaa48c273e4a670a6b1f3733f6cc10feb3cc0d9",
+      "bytes": 8035
+    },
+    {
+      "path": "selected/UFE.xlsx",
+      "sha256": "f8d346217a2585e07968dbfb5a2284d6e8c3f24208544cb99bf9f0f193ba5b24",
+      "bytes": 8181
+    },
+    {
+      "path": "selected/GLU.xlsx",
+      "sha256": "651cc38cfe2c017e777228f26140c9707e7cae3fff111fa7e95093ad41384f02",
+      "bytes": 7531
+    },
+    {
+      "path": "selected/OTHER.xlsx",
+      "sha256": "25afb41ecf702b854bfed671eff9f2a52b530d03ff2dc07ce19ae2b93340df92",
+      "bytes": 7983
+    },
+    {
+      "path": "selected-all.xlsx",
+      "sha256": "91fa7fdb8dfa0e032cedfd92f49d56b8b75a27462c884df3d6265752a51bb07e",
+      "bytes": 12949
+    },
+    {
+      "path": "selected/README.md",
+      "sha256": "170211adcef77accb85c6760585ae63e0e847b8de70f42cd7842e52279e185f6",
+      "bytes": 2270
+    },
+    {
+      "path": "verification/proof.json",
+      "sha256": "c08c5cb24d9d0b30d0fd84e5d084461d9562426656e6d39fb63f0d79689ef41e",
+      "bytes": 5645
+    },
+    {
+      "path": "verification/results.json",
+      "sha256": "c928f0bc67354482c03200078c0392e6f0485eb5c11b3345040c5c9498f1f859",
+      "bytes": 30128
+    }
+  ]
+}

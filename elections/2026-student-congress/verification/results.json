@@ -1,0 +1,887 @@
+{
+  "schema": "an-student-lottery/results/v2",
+  "lotteryId": "2026-student-congress",
+  "algorithm": "an-student-lottery/v2",
+  "commitmentSha256": "223349e6eb978ffe8071f80e25cbf7aad1577f72f992d9a8daa3041008d83d60",
+  "blockHash": "0000000000000000000150125577caa2c5164b1403998b01ed555fb1b76f3d96",
+  "seed": "50a609854518d07b6a1005c93dc36820846c5416cf12f97f4902fb9e10d53e48",
+  "totals": {
+    "allocated": {
+      "male": 60,
+      "female": 40,
+      "total": 100
+    },
+    "selected": {
+      "male": 48,
+      "female": 29,
+      "total": 77
+    },
+    "vacant": {
+      "male": 12,
+      "female": 11,
+      "total": 23
+    },
+    "reserve": {
+      "male": 19,
+      "female": 36,
+      "total": 55
+    }
+  },
+  "groups": [
+    {
+      "code": "NUM",
+      "male": {
+        "quota": 9,
+        "available": 21,
+        "method": "random",
+        "vacant": 0,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "fd6171a99925d1b9ac05d8a36423ac61",
+            "ticket": "02acf2c94e1d70d588e63e826e73395f64af924c401c8f6767cb0a588fc8ea86"
+          },
+          {
+            "rank": 2,
+            "entryId": "8f5705a73ff43a78836e239985ee0551",
+            "ticket": "168a0ad1f61ce8a858555cba8a122c8a23f11adc7c8b0d2e43c1fbca7895b4b7"
+          },
+          {
+            "rank": 3,
+            "entryId": "203842e809ab774afaab768b7913c123",
+            "ticket": "3067a635e5750ca5582413a483388cc7546f2838d68364e2c4aa57f59b186516"
+          },
+          {
+            "rank": 4,
+            "entryId": "b09a70b98f1ff74b225ad1cda93bd60d",
+            "ticket": "333e20fd610998ec66b151242b3d6b1f31932a037e160e2ea648e42dd9e26814"
+          },
+          {
+            "rank": 5,
+            "entryId": "338250d1928e6cf7ec73dde153bb89b3",
+            "ticket": "5e9cea57523fbdedd4ee9bfaee80783b7fc284b59161cfcfe8c174a73dbc0630"
+          },
+          {
+            "rank": 6,
+            "entryId": "974e866ffec32c266dff72ff30dc28d9",
+            "ticket": "7a0674b9c9aca216bec4e8b029d0c8a73c5626a8f1e3d38f60c0a3855fef690d"
+          },
+          {
+            "rank": 7,
+            "entryId": "8dac88f2bdae0460907b71cb63780337",
+            "ticket": "82ea954719cf944cd58e2abcad73cf327fba3e3bc396687ea3fa75d3bc1ce08a"
+          },
+          {
+            "rank": 8,
+            "entryId": "f1ffd07fd365e72fd4489413bcb82d74",
+            "ticket": "89e2567e795218e042520b356db5861b482753ef87d2f831ff9d78853821bc98"
+          },
+          {
+            "rank": 9,
+            "entryId": "5ce834a7f4cbabf2037653028f0cc588",
+            "ticket": "8a4f5f06179bad3c6ce66ba5b18a8fe24836d480e9a718a61235279d97ec08f7"
+          }
+        ],
+        "reserve": [
+          {
+            "rank": 1,
+            "entryId": "99178845353cef57766624ba701d88bb",
+            "ticket": "97068aa1d641e49b1d9fbd8742dc778e96d48363044c3e8cc0b1d599073b3adb"
+          },
+          {
+            "rank": 2,
+            "entryId": "c65ce66088362d9eae1246e3f57db55a",
+            "ticket": "b2b63e4fcd47a4d49ba5aeb7cab1b97e360d0d7b4e98f88a212393913ad1feb8"
+          },
+          {
+            "rank": 3,
+            "entryId": "28fe27c38feffba9d5f6d7f1da74170b",
+            "ticket": "b3b070f3b857e8959f5b8662267e8e623e3a0c4b394b3961a11317a4149faecc"
+          },
+          {
+            "rank": 4,
+            "entryId": "46536c00554854131e9f61cebcd2fdf3",
+            "ticket": "b40b32186e535f1e4919d71555661fd07eb3c4706dd62e7326f2289a5f2cbf99"
+          },
+          {
+            "rank": 5,
+            "entryId": "3579ea9ff95b10328fb8cecedb950bbe",
+            "ticket": "bdf602c1b2ed7ae7ed11bd1b46682d5e99fa572643eb3bb04c67e164d4d9d363"
+          },
+          {
+            "rank": 6,
+            "entryId": "1a88056df2b997f9be49d2c3912cf46e",
+            "ticket": "bdf8ae748a5839e37d350fb4c83e23b2ab8fd066863521ddd86f9417307af2d5"
+          },
+          {
+            "rank": 7,
+            "entryId": "1e9fd899c429dbe474dbfd852293004f",
+            "ticket": "c4ba3256536b6591622230211f2a5dbe5715a6911dc9055e9ce9fc52c5d40bd6"
+          },
+          {
+            "rank": 8,
+            "entryId": "0f6e105041ddfd4a6a1334ee92fe77a9",
+            "ticket": "c531d8917d0b72bda27e5234c17c65690d4b4f504ccdf65a730450f2d0191e15"
+          },
+          {
+            "rank": 9,
+            "entryId": "bf119be8f098056bfe361b985bb7694a",
+            "ticket": "c7f487b6fc42ef066359e10c6fbd19e9d099d6fb5ae3e56ebc345e792c27f5e5"
+          },
+          {
+            "rank": 10,
+            "entryId": "c28ff2c06db2bc57166b3c452c331ac5",
+            "ticket": "dc9bf3be13e7c91d5fab24d56a3b425f1a63e592bc2b58f2a878be643cb56da1"
+          },
+          {
+            "rank": 11,
+            "entryId": "dabf9484f891bfe3eda077b10a76d478",
+            "ticket": "edaf4701df4b718068764ed329e52bd6188333e71f4bc257d02c396387fac4f1"
+          },
+          {
+            "rank": 12,
+            "entryId": "dce70fd14f63eaf222aede752bbd5771",
+            "ticket": "fb81ab2147fc10aa8110ab733ab4c2d0707df69c42b7fe000cffe6e5ac83c37c"
+          }
+        ]
+      },
+      "female": {
+        "quota": 6,
+        "available": 23,
+        "method": "random",
+        "vacant": 0,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "3430b2df4b3bef7c4131557708c52394",
+            "ticket": "03aee9d297ee9ece0c517f3c9081173e68489c7914a35d0987dcb29fe1c2440b"
+          },
+          {
+            "rank": 2,
+            "entryId": "b6e3196b35b3d8dad2c09497fbd60888",
+            "ticket": "06f815ff74e18a6495c92cd1df9c85b79c73ae1f6e3540cd9791f98595bd8797"
+          },
+          {
+            "rank": 3,
+            "entryId": "6edf55069e450f40b03d7ee7b5f4b534",
+            "ticket": "09c6de2d6de5ce9ef7dc4632ac1d219f5ae0033ed4721ec891597e32d361b5cd"
+          },
+          {
+            "rank": 4,
+            "entryId": "ea5879637d590d696a03ce975df70dc2",
+            "ticket": "189dece6d79dcc7d99ad8568949d3ee3df5cf9d22aa2fef3539971f53e755e1a"
+          },
+          {
+            "rank": 5,
+            "entryId": "f433c1733719ab716c85828cb6ed99db",
+            "ticket": "1ae77c7983c95bcb236eb9b5a7d42f5e0c9930ea6e43bb64c4894fadf62e9ca3"
+          },
+          {
+            "rank": 6,
+            "entryId": "c9cf8b468b88c41d761bc083547c5063",
+            "ticket": "276e24e2520c62273b3d2a3514abcd595723907c9839603fe32330bae719d763"
+          }
+        ],
+        "reserve": [
+          {
+            "rank": 1,
+            "entryId": "1f6dd63a5eff62d80015e226ede3a561",
+            "ticket": "323d71c605bd70f0e392ec833951a57104d667289b3d971b7a810e688ae3b620"
+          },
+          {
+            "rank": 2,
+            "entryId": "4c82920b46725d2142d26f4a3ffcae8e",
+            "ticket": "36fb57166a38fc9b7ae41e93b17e9d1051abbd5b7c3da89a6a5340bf1d937bcd"
+          },
+          {
+            "rank": 3,
+            "entryId": "6c3c625904ddce8a64eb25387b08e6af",
+            "ticket": "390980ae0fd2de91fdc85be94eef55f18ffdff7d30b92005659dad00c38ae1be"
+          },
+          {
+            "rank": 4,
+            "entryId": "81d175ce48c0b683c879152a36b1a192",
+            "ticket": "3f89068598171c1f82129716dfdc2962fd55cc10699e868c91000d9841f36256"
+          },
+          {
+            "rank": 5,
+            "entryId": "19e0babb3a01e6f1b3c60a2321b96f6c",
+            "ticket": "546b2b437651349fa741bf9c7894ae93a7c2870391933fb732c4b9cf42792744"
+          },
+          {
+            "rank": 6,
+            "entryId": "20b845589c25c750a63239d72632b483",
+            "ticket": "74218c9370f1e86934642e1c7f2c0439def0ac1740f2d60976d556344bd35892"
+          },
+          {
+            "rank": 7,
+            "entryId": "3d0f032220bce62371640ac453636046",
+            "ticket": "7696d834a32e897d8b1ad9edb86f0f8660f9bd34937ea942091a731766433bf1"
+          },
+          {
+            "rank": 8,
+            "entryId": "e0eccd69b16e2a34cc3408d77b963bc4",
+            "ticket": "8296818793e6a6772956fd4aeb3a9a946a582c68c0ebf6aac256b63a8e0956f3"
+          },
+          {
+            "rank": 9,
+            "entryId": "fb3f4c44057a4c7054fdf090efda4478",
+            "ticket": "8d221fc3292456e78c7d3a08192f4cf9712a9200815a1505cea7468546269a53"
+          },
+          {
+            "rank": 10,
+            "entryId": "2bd4c7627d8614065cd4efef4a96cb4e",
+            "ticket": "8dcefb8d622b89dbd9a57ceda5cbdd6b138832f4d579e1e6b706e901fcc2c196"
+          },
+          {
+            "rank": 11,
+            "entryId": "1fa55331605b581fc7ea2f26585dcb77",
+            "ticket": "b8b97843ce0c44968206e1b95ce9a48e1a21dfc1b5949fc05bf2faed9e57426f"
+          },
+          {
+            "rank": 12,
+            "entryId": "0839662ac09630f91a60e104cbe8c948",
+            "ticket": "d2979132956e8c89acfc2320755849284c11249daf2c3fe96b82d0df41ac8e13"
+          },
+          {
+            "rank": 13,
+            "entryId": "4db75c96f79d30e8f8e2345fcf58f74a",
+            "ticket": "e4cbb16de19a3706f115b3b49137f6923223f317a5f19be4f6a84dc9016d4018"
+          },
+          {
+            "rank": 14,
+            "entryId": "082f3d2bf7344c059add73a04380fa16",
+            "ticket": "e6e15572c6a7bcd74bf9827b8e511a55383b22d4a30162cfe0f2128394b0ef79"
+          },
+          {
+            "rank": 15,
+            "entryId": "b87419cefaae25f638012cdf30f55842",
+            "ticket": "ed94464d58ca41afe9e461791d063aed53198a5e13682659385af2edf2601d84"
+          },
+          {
+            "rank": 16,
+            "entryId": "c6febfb40e662087a4dbac7f2242f924",
+            "ticket": "f1a7759aac0a18b47ea0b7202881fa7d9421ed89dda136c79a5d1389f1627b06"
+          },
+          {
+            "rank": 17,
+            "entryId": "581d513f5c436d39cd1ffb9fb1b203ab",
+            "ticket": "ff43ed76ccf2992e5895b46fbdcfb119101175ba7c2d0da5a25553d438d44713"
+          }
+        ]
+      }
+    },
+    {
+      "code": "MUST",
+      "male": {
+        "quota": 9,
+        "available": 14,
+        "method": "random",
+        "vacant": 0,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "434ab3418b0c7c68d5889f04b29624ce",
+            "ticket": "09acbc92c708edf2efb211a5de45a58fcdc2daa59fe1de846e0efa9526de3f20"
+          },
+          {
+            "rank": 2,
+            "entryId": "5dd2f1fd21abffc027006b61684e3048",
+            "ticket": "0b17bc54b20c1e8acb7dbc868c668398b9e72f9497f2100d3ff613a549fd5c28"
+          },
+          {
+            "rank": 3,
+            "entryId": "86ef4286ba631e8e857c2f39a49cb626",
+            "ticket": "443589ebbf8a065bd9ec904abbda820c91f0ad01e8f76e0afe83343834f39192"
+          },
+          {
+            "rank": 4,
+            "entryId": "08fcce853d1de87ff49bf55165c1094b",
+            "ticket": "531e1cb7e4f5123f94fe76fd595381a9bf793f7a5b7731d31a6913ff75e26c8e"
+          },
+          {
+            "rank": 5,
+            "entryId": "d0a0538b2f2f8ff96f2036d0a96ddd5d",
+            "ticket": "81918d0365fdd20c84ca72df31822957d19a01aa6c11eece4237c9be6d2e60ee"
+          },
+          {
+            "rank": 6,
+            "entryId": "cc0bebe25543c779cf5885b9e9784472",
+            "ticket": "8e6b99fd2f0a78f4d9a11bd75b7aecb82b4b233d03c38bc985966c206ba33fb6"
+          },
+          {
+            "rank": 7,
+            "entryId": "9baded0be10964ca921b3507fdeafb12",
+            "ticket": "94c2141a8f199a6394a4eadf70872e4276b15ed33f4e5c0aff1aba4e08638818"
+          },
+          {
+            "rank": 8,
+            "entryId": "924048a9ccbd7fec0360e8223e350df8",
+            "ticket": "95746499633ec7eff2f6a4d7879868aec3c1aff95740b2a5a0067d8ed0e229e8"
+          },
+          {
+            "rank": 9,
+            "entryId": "e7a9b148c46feac11c574aed4c7d6b87",
+            "ticket": "b83fecdadbd982a6b2b335b037196211a5feb5a1d811f7d1ab3b7de7d8cfe1dd"
+          }
+        ],
+        "reserve": [
+          {
+            "rank": 1,
+            "entryId": "18f10ba67e59fc733011f8c68f53cb15",
+            "ticket": "bb3cd02c81b96635e426182eecaebf9bb45c18fbf96e2b76c58a9be50425d2b4"
+          },
+          {
+            "rank": 2,
+            "entryId": "6c2ae49fa7ea2f46bc23abf834ff30ee",
+            "ticket": "bb496167005f86add4700ec357c09e0ab4d90eb07e7f056948928ab9f5255556"
+          },
+          {
+            "rank": 3,
+            "entryId": "ed1986f4830dabe0d501bf2b6fee64cf",
+            "ticket": "c5208db882c285f19838242b84153e3f553faf60507e6cf6a76af671f0eef058"
+          },
+          {
+            "rank": 4,
+            "entryId": "2f328bc162f7aa4ea58e956452e6302a",
+            "ticket": "ef9a9480646e69380d8eba820a62703e623bcbc8c232508edd8abc3792ca4261"
+          },
+          {
+            "rank": 5,
+            "entryId": "ca7fca07e0774abda9fd46e8f2988d37",
+            "ticket": "f84968b4fbf744eaac925b6068b2207f7c3a9e769414d251d49995a0f95b5624"
+          }
+        ]
+      },
+      "female": {
+        "quota": 6,
+        "available": 2,
+        "method": "automatic",
+        "vacant": 4,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "5217650c62ca500bcf9bcd68fbb662dc",
+            "ticket": "58572c6d2ce95aa88f3c23fb4e524ccf3b38bf428e705f5aec1b971f7c2c2e18"
+          },
+          {
+            "rank": 2,
+            "entryId": "d4dbc7632df0d179ff4cebd820549198",
+            "ticket": "808a17ff6886f99932c8b435e28c031a1aa3d577cd41f2802a4932b98746a2a2"
+          }
+        ],
+        "reserve": []
+      }
+    },
+    {
+      "code": "MNUE",
+      "male": {
+        "quota": 6,
+        "available": 6,
+        "method": "automatic",
+        "vacant": 0,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "9ee07bf3b7ac2263ef1eed79f5f40ab2",
+            "ticket": "3a93784d189d39bcecb475b56d7d1f33119d48818f454f5f8095f3e4b31591f5"
+          },
+          {
+            "rank": 2,
+            "entryId": "00b86b56d9958271d8cde6215957a4c0",
+            "ticket": "5cb418a46e56aac22737939cdc1bd9d11c6944225b64ebc717003f8691debe44"
+          },
+          {
+            "rank": 3,
+            "entryId": "4e1391660d7d38bd9ac2051cc9962394",
+            "ticket": "74daa1e4f6e1d60ec818e8838781abe5aa2521b5e0a1ba015d927be06e010c53"
+          },
+          {
+            "rank": 4,
+            "entryId": "7a5888fc84faef8e0164ab54abe8f120",
+            "ticket": "b958a98673ee21302163d3fd71ce60d5b0cc77be7f494391571b580c7e195005"
+          },
+          {
+            "rank": 5,
+            "entryId": "9711b328672e26855ec1a4eb6d40e728",
+            "ticket": "c48d68db6bdb0e90d95079db9eff9a73df5f3fdb7fe8ab25858f0af91537f4aa"
+          },
+          {
+            "rank": 6,
+            "entryId": "c44bbd76579f0a9fce87f05a79167222",
+            "ticket": "d3df40ec4ec62b4166c1c8cbbe134ae6f91b700c02f2f004072314779180d9bd"
+          }
+        ],
+        "reserve": []
+      },
+      "female": {
+        "quota": 4,
+        "available": 3,
+        "method": "automatic",
+        "vacant": 1,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "afa8789010c5c51f3e89da8109347cf9",
+            "ticket": "52534e30e5c2449657ca8d9a5f3de82791f3cd312f900ce4a3b022017e5508cd"
+          },
+          {
+            "rank": 2,
+            "entryId": "e19dd294eb83e060a93d7e722968e475",
+            "ticket": "9bbf2071d769ea954b0b1a6667b0b26b82d85fc3ee794ae47435714cdcaafdd9"
+          },
+          {
+            "rank": 3,
+            "entryId": "67527f029f4f8e7bd7f969729a57c2e3",
+            "ticket": "b2c9c3a31a446a5a38840e34367ab959a0a5436dec24730a176d25363bb44a19"
+          }
+        ],
+        "reserve": []
+      }
+    },
+    {
+      "code": "MULS",
+      "male": {
+        "quota": 6,
+        "available": 5,
+        "method": "automatic",
+        "vacant": 1,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "d0cdd4cad5fa5ee2168a09efca3db4db",
+            "ticket": "263bd641bfc6d51045684005ce894bbd0d7cb8ae52a749194c2355ca338f374d"
+          },
+          {
+            "rank": 2,
+            "entryId": "deed807a0a4326b87b17df79c008b140",
+            "ticket": "47a8f118de2f9857a337850cdc2e807fb313358b6c3890649964d008666f178f"
+          },
+          {
+            "rank": 3,
+            "entryId": "24ef6fd155cf4311c180a0fecf7127f0",
+            "ticket": "9a2287bd794cd0316b8ae79687af5102e31c932dc39faf7fc512776ae03c52c5"
+          },
+          {
+            "rank": 4,
+            "entryId": "3bc7e03b1b9a164b04ab88057ae27b59",
+            "ticket": "d4a47a69d2912601f8959e41a96ba01fa72767eac13bd3232f7902a3a4ec7784"
+          },
+          {
+            "rank": 5,
+            "entryId": "19918cc3eee7aaab6876cdee6d6acd2d",
+            "ticket": "dcb25c84267fc3f604340ffe59e335a0f7211d1963530ab2e5add544f1b8c37f"
+          }
+        ],
+        "reserve": []
+      },
+      "female": {
+        "quota": 4,
+        "available": 1,
+        "method": "automatic",
+        "vacant": 3,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "cf91ff431d55e823d61a76b81f4055d8",
+            "ticket": "7892898e7c0fcda525f01211842514cc2b8fb7ef9056440237debd1d108395b0"
+          }
+        ],
+        "reserve": []
+      }
+    },
+    {
+      "code": "MNUMS",
+      "male": {
+        "quota": 6,
+        "available": 8,
+        "method": "random",
+        "vacant": 0,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "1337fa7bad66b1d88fee0e36c49efba9",
+            "ticket": "22b004b0d1aa69666cc6d6954dfa598a40ea1908adbd75d3a2937b704f798179"
+          },
+          {
+            "rank": 2,
+            "entryId": "c18bf95fdfbe5ef9b57f5c3870f3e488",
+            "ticket": "30de566290e84f65f2122d04d089a42bb53ae36c156788eb12c237ea3b15ee80"
+          },
+          {
+            "rank": 3,
+            "entryId": "4ae330bda37a9342811eb004ae646774",
+            "ticket": "631faeba2555a323d4f051a40b8a651712be550cc9ab7e45c572db7a40ea7066"
+          },
+          {
+            "rank": 4,
+            "entryId": "fd2246e84655d9406fa6796912565264",
+            "ticket": "69a7254fec0d276ae1d117b4f3b4939385bdf31c8eb46e72639d6ccb46786533"
+          },
+          {
+            "rank": 5,
+            "entryId": "dec3288467313f134437a64be628a80c",
+            "ticket": "82a4970579c3bf808aacad103b62f5ff6330b0effb600e5c95b2e2c365b71765"
+          },
+          {
+            "rank": 6,
+            "entryId": "13462081e2608372b0117733aef4f1ad",
+            "ticket": "a01872ed685748c32df847fdef74c23aaede3401eeccb67875375817bfbf0c82"
+          }
+        ],
+        "reserve": [
+          {
+            "rank": 1,
+            "entryId": "e607430bd5f9d812472db2ea07d9aa46",
+            "ticket": "ba1be8ec23ece60a1c94f9101689290988288e52e246a60122716bd1913af28b"
+          },
+          {
+            "rank": 2,
+            "entryId": "eb201105ade07ab1662e1db7735ead27",
+            "ticket": "fa09ae3f5dd5330ebfe0d267d34af56ca7f9b815faa1142f5fd5290a68932bd4"
+          }
+        ]
+      },
+      "female": {
+        "quota": 4,
+        "available": 15,
+        "method": "random",
+        "vacant": 0,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "46b607949a1d6a4f666c97257d0f27d4",
+            "ticket": "02d97f6d6af1d6b4316113aca79e8421949dfa33f4d211d8b559d2e9d7d0b654"
+          },
+          {
+            "rank": 2,
+            "entryId": "39d7034449e2a6263225cf461d0af6dc",
+            "ticket": "0f5277ae7e47d69580214b10cd3f29fa9aef6673bf1158c2ad686b73b30c86dc"
+          },
+          {
+            "rank": 3,
+            "entryId": "2f06b4a5a6d9faa4eb9b70367e2e6059",
+            "ticket": "12a01119b3ec1848e6fea6c4cd0de825aaa0c5d00cbd741f164c9e827847dfd7"
+          },
+          {
+            "rank": 4,
+            "entryId": "1eb946ac593e028d4b834927744d954a",
+            "ticket": "1c8aa4771f28298568e07faadd3a02083808b3da2121ff5126e3d7a4cc9d9793"
+          }
+        ],
+        "reserve": [
+          {
+            "rank": 1,
+            "entryId": "088c507a4b45f74b822fd83d6a053ba6",
+            "ticket": "289e5243707a5c8d3038163c49c8fb994c76ab4d7eea3e92e9c8eb3ccd55156a"
+          },
+          {
+            "rank": 2,
+            "entryId": "f7889c62eb025b9714be7d1ec966d1e5",
+            "ticket": "4e0b9494522e3a0f9e4c32d924b92e311a8ee76268e9791d4f723dca357f9946"
+          },
+          {
+            "rank": 3,
+            "entryId": "11ba2ddf3b337a7171ad8c238390d4bc",
+            "ticket": "50aa17e69223e12d919a494a137992fee42e15b69b953b8678927d70dda57e9e"
+          },
+          {
+            "rank": 4,
+            "entryId": "1cccb0c21881e175d453166a65ea7119",
+            "ticket": "5df4acb1da9aaf94b28ea1470301d5e08fc93a3afbe3436d39bf9fcf3a757adf"
+          },
+          {
+            "rank": 5,
+            "entryId": "65dc8dfcf5ffea50b92d9ab143ab34cf",
+            "ticket": "891b9992d646646bc97aea26f8efc45fab273afb053c893b4af2598bf8c923b0"
+          },
+          {
+            "rank": 6,
+            "entryId": "2beca3138fe9fda0d66f51b2713ebf4d",
+            "ticket": "91d94592bf92ab280e29b1b709153fd7b39c6661cb8db52c21437c333540c086"
+          },
+          {
+            "rank": 7,
+            "entryId": "d039165352ac4cf413352a1d9f7ab9fc",
+            "ticket": "948b549b29ff3b367a4ecf92579730301090ab4def881628d9e3e2e4e75425d4"
+          },
+          {
+            "rank": 8,
+            "entryId": "7ea254d8fee6c188e97cf534e3c10783",
+            "ticket": "b795752b5f505f564ddb682aca08da3c1d1f60bd4956f2c88775cbdc89bd9507"
+          },
+          {
+            "rank": 9,
+            "entryId": "be40929c8a66e14cd5b1f95de5122b29",
+            "ticket": "bfbe1175b89ac7a530c6856d43672ed13f884cac4ebbf28a6fd1f77e0e764851"
+          },
+          {
+            "rank": 10,
+            "entryId": "9906bc752f92f0eca76f035c721d381a",
+            "ticket": "c1e66f19cc2bfc4d8b4575fcecae08962ed56209703b3067be6bcab9182c75e4"
+          },
+          {
+            "rank": 11,
+            "entryId": "aede2ef77bf2fd87c5e546c7a589c8bf",
+            "ticket": "d17e23d28f93b8094c3b2ad7ecd2d02fcc7f808d8a122c2ce8145d9f964a4f9f"
+          }
+        ]
+      }
+    },
+    {
+      "code": "MNUAC",
+      "male": {
+        "quota": 6,
+        "available": 4,
+        "method": "automatic",
+        "vacant": 2,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "8199ee42544a302534438b9233b6914d",
+            "ticket": "24acfc36295e2868953e9c9ace91961ca05f240a979351c4041027d80abab3af"
+          },
+          {
+            "rank": 2,
+            "entryId": "f1a00222a548e8da6454d0ffe5b51c18",
+            "ticket": "8c01a759c26087fb3f1fd8b4693bae3bfb04b8e07c58943d141328ec55d06fe5"
+          },
+          {
+            "rank": 3,
+            "entryId": "ff7e006e86a59209f4a9434125802c09",
+            "ticket": "8fd996ea93a521965b89f6f2a92fdcd1de4c69a6038452f60d646eafb7b66913"
+          },
+          {
+            "rank": 4,
+            "entryId": "633a045eab1cfe92c00cbfd46a684527",
+            "ticket": "bd19e31d369dc60ee4c6d8885637fb7411b3ac5a8d6ffb07a1ac0aed8af80507"
+          }
+        ],
+        "reserve": []
+      },
+      "female": {
+        "quota": 4,
+        "available": 4,
+        "method": "automatic",
+        "vacant": 0,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "a7c292ecf0d6921a008efe579f51a9df",
+            "ticket": "089bd04562aec012e350cdd42252e91b0519bbdbf82898f0a3cde169f50fc55e"
+          },
+          {
+            "rank": 2,
+            "entryId": "0d8109ff63d3f7dfcb0ae4c53ac3ceab",
+            "ticket": "283a5578651f6086ef09f27ab638dbd3eb16120a26c65d1b201cca0bd9147f6e"
+          },
+          {
+            "rank": 3,
+            "entryId": "956d4983b2c4c2cfc152170f6178c083",
+            "ticket": "b4909682f98bf3806a943f7a970b32ecdfaae386a5d869bfcbec986a8ca866c7"
+          },
+          {
+            "rank": 4,
+            "entryId": "9bced561c9999aecbd7d22a218bb96bb",
+            "ticket": "d61dfdbc0a25e15a6efee04cc2b400e8190448de9e8041de852a2049dc861571"
+          }
+        ],
+        "reserve": []
+      }
+    },
+    {
+      "code": "UFE",
+      "male": {
+        "quota": 6,
+        "available": 6,
+        "method": "automatic",
+        "vacant": 0,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "aced28c0d04bf65e0f8492377d921d79",
+            "ticket": "041306dd92187bb9b43b107a25b95e9f66857eb996474a75831b27f71a717637"
+          },
+          {
+            "rank": 2,
+            "entryId": "128d553b201865154c21d6ca4a0a3492",
+            "ticket": "0d6af25a19bf17a259c81664ee129ca6c09b3e2aac8ea818d9e8be64ea6fc7b0"
+          },
+          {
+            "rank": 3,
+            "entryId": "9efa6fd10e6374a6b77ed825ff5185c3",
+            "ticket": "40cdfe3aeffb268a183217f90927b02c1b41d5c1c60edade6e78b86c68de71f6"
+          },
+          {
+            "rank": 4,
+            "entryId": "30f071704e501f61cf4eabdac29dc375",
+            "ticket": "841c85c208a6947f4b831f13c0b448321d3d6c2a6f0efa631f3ce07608f9c190"
+          },
+          {
+            "rank": 5,
+            "entryId": "1c420ba0a94bf8ecfa36b0f5ef244f6a",
+            "ticket": "b013142063668d38900214f26817216ed8360c9232f254c0d156323505473dcd"
+          },
+          {
+            "rank": 6,
+            "entryId": "b2e84e688f15218e83654c47e257634a",
+            "ticket": "eebbd176b221e3535e1e5596dd23b65981336f6b45b08b93a3d6bb2249c6b38d"
+          }
+        ],
+        "reserve": []
+      },
+      "female": {
+        "quota": 4,
+        "available": 8,
+        "method": "random",
+        "vacant": 0,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "065ed636d22ff622db73c471a52f58ee",
+            "ticket": "2805b1cce30887bf0d379e3e97a034d62d98128a3b58818453e836aa7ffacc41"
+          },
+          {
+            "rank": 2,
+            "entryId": "68e457bdf8efe2ce0179aa6a32c6043c",
+            "ticket": "769daf404189fa38d6e7acd8ac5459a5ca778dd420055fc4b76f9be588eb73ac"
+          },
+          {
+            "rank": 3,
+            "entryId": "ad322a437a29f6e52fabd061218b2dfc",
+            "ticket": "7e18e5ad0b9834a17c73d9ead0e1041a6e48e1e0c64a77a374f54e911dbc0ebd"
+          },
+          {
+            "rank": 4,
+            "entryId": "71f995270ad53601d51489f433510d63",
+            "ticket": "85068d0ba71e7a71a153a2386de913e4e0fcff8117869649d80dccbb062d78da"
+          }
+        ],
+        "reserve": [
+          {
+            "rank": 1,
+            "entryId": "6a06c18cd9e57141f17cad92a9095854",
+            "ticket": "b630e868a2a8896f4330a9d706b59889c37f11e42472b6599b7a2630561b5096"
+          },
+          {
+            "rank": 2,
+            "entryId": "cebfaed8ddc683d6998a277df452a730",
+            "ticket": "d627249b589b5142c192e9035df7b256925b520e85f1ca3e22fd62b71ac8c9f7"
+          },
+          {
+            "rank": 3,
+            "entryId": "5ad7126411d376dc5e123422df0569ed",
+            "ticket": "fc3667291348c563ac57674682d6147d36985c689e50ed0e77867aa066c2db9a"
+          },
+          {
+            "rank": 4,
+            "entryId": "4e60cc6189f19279222d1edc11b731a1",
+            "ticket": "fe5ff3bf893272cc82be28db32d4701540e95e826e1963cba53bf55549eafbce"
+          }
+        ]
+      }
+    },
+    {
+      "code": "GLU",
+      "male": {
+        "quota": 6,
+        "available": 0,
+        "method": "automatic",
+        "vacant": 6,
+        "selected": [],
+        "reserve": []
+      },
+      "female": {
+        "quota": 4,
+        "available": 1,
+        "method": "automatic",
+        "vacant": 3,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "46aa83646fd25220f868a57662208064",
+            "ticket": "a357904e25590db08c218cefec51d187bea7a4c2cde43e9d0106847af13fe748"
+          }
+        ],
+        "reserve": []
+      }
+    },
+    {
+      "code": "OTHER",
+      "male": {
+        "quota": 6,
+        "available": 3,
+        "method": "automatic",
+        "vacant": 3,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "f64bdfc616ebb6c86be7f76909f91094",
+            "ticket": "13d3362cb11d9d4be15d6863110e206d5fbbb74b969a03546a3e2e429c9e2522"
+          },
+          {
+            "rank": 2,
+            "entryId": "5ce26ff072827c44c5c4f07c7f6ca0b9",
+            "ticket": "378f6e7dc06f963e44b06c8d5c3f22690f3514a0ea324d55c40824e2daa519c3"
+          },
+          {
+            "rank": 3,
+            "entryId": "bc0bb56c4c3d13d8ff2c77fd6f99ca5d",
+            "ticket": "c5e43cf5108777b2c34dc1a1d900e02906bac50b4a2845e08d126500335c6f17"
+          }
+        ],
+        "reserve": []
+      },
+      "female": {
+        "quota": 4,
+        "available": 8,
+        "method": "random",
+        "vacant": 0,
+        "selected": [
+          {
+            "rank": 1,
+            "entryId": "857ad030531a6fb9b2b7154fcc67bfb1",
+            "ticket": "0edd3b38cfa05adf587b91846497a50b66e467c4c59c4af1e0e525c1d7387081"
+          },
+          {
+            "rank": 2,
+            "entryId": "1b376b67cfb44038e8b521cde402324a",
+            "ticket": "3486123aef29eba0a3539831c06a319f670acbfc917dc1bbe02cd4f54f21647c"
+          },
+          {
+            "rank": 3,
+            "entryId": "d6543a3412c60bde287d2f9e8f30c812",
+            "ticket": "36e703360d7401476478b94b2f214c5cb6fd1ac2494cf034f7153be60ff66d9b"
+          },
+          {
+            "rank": 4,
+            "entryId": "8a6345dc61d90246d53f17069ae307db",
+            "ticket": "43f929a8b21332f63209c57ceb749b80805f4a96e9c8930824469807ebc8e8d3"
+          }
+        ],
+        "reserve": [
+          {
+            "rank": 1,
+            "entryId": "f8207220063962cf97f8f3ddbf365212",
+            "ticket": "52f6d4fff431b5d78053fd5189fab98f2a436772d754a16955bc41b71ce8154c"
+          },
+          {
+            "rank": 2,
+            "entryId": "69f0d9ef3b943b47273d9ceeb123b6ae",
+            "ticket": "a4af231fd78714760f7bcd19919ec0ddfe5ca15e0fa428245cffaa870680239d"
+          },
+          {
+            "rank": 3,
+            "entryId": "f4b5312afcf2b76ecbf333382b0d0fdf",
+            "ticket": "ec92f34b32afd484e12f4ad75bdfc1662801bc66ef4fda9ddb4add0df20113e5"
+          },
+          {
+            "rank": 4,
+            "entryId": "c77d18ce38b080b50dc05cc95d8d7c6e",
+            "ticket": "fb576395261c184a8cda3f20b91fad5f7258fe2654c55d2ab0e71590a160a056"
+          }
+        ]
+      }
+    }
+  ]
+}
