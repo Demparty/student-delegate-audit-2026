@@ -1,0 +1,43 @@
+{
+  "schema": "an-student-lottery/manifest/v1",
+  "lotteryId": "2026-student-congress",
+  "stage": "commitment",
+  "commitmentSha256": "223349e6eb978ffe8071f80e25cbf7aad1577f72f992d9a8daa3041008d83d60",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "a65943143ec3c6c791007ada6cf4df62052013054bd45a5671756b7d9a7305ec",
+      "bytes": 5197
+    },
+    {
+      "path": "list.xlsx",
+      "sha256": "37732b26413915393f3e22690723f93586b811f14301a4d8cf1530a1fa542ca5",
+      "bytes": 15931
+    },
+    {
+      "path": "verification/snapshot.json",
+      "sha256": "083aa517350707a9e9ab830254d58cd84cf998a3e49134d2aa1c6500bf1bc861",
+      "bytes": 44877
+    },
+    {
+      "path": "verification/mandates.json",
+      "sha256": "3ed8294b6e829aed48b66b0881d7439de7cfe48630d06b25feeb51ba15f3862e",
+      "bytes": 3319
+    },
+    {
+      "path": "verification/commitment.json",
+      "sha256": "223349e6eb978ffe8071f80e25cbf7aad1577f72f992d9a8daa3041008d83d60",
+      "bytes": 1364
+    },
+    {
+      "path": "verification/verify.mjs",
+      "sha256": "3a23d0f6450d48d3fdf193e9878f3814aa9957c58fd90197c78ac36f0ae1e905",
+      "bytes": 101903
+    },
+    {
+      "path": "verification/README.md",
+      "sha256": "fba1e819e54cb9f74fa567247100a7e9d70f0432f14450a0b04717c4e324c805",
+      "bytes": 2537
+    }
+  ]
+}

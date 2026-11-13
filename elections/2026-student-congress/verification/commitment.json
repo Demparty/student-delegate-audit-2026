@@ -1,0 +1,33 @@
+{
+  "schema": "an-student-lottery/commitment/v1",
+  "lotteryId": "2026-student-congress",
+  "title": "Ардчилсан оюутны чуулганы төлөөлөгчийн сонголт",
+  "algorithm": "an-student-lottery/v2",
+  "statusFilter": "all",
+  "entryCount": 132,
+  "snapshotSha256": "083aa517350707a9e9ab830254d58cd84cf998a3e49134d2aa1c6500bf1bc861",
+  "mandatesSha256": "3ed8294b6e829aed48b66b0881d7439de7cfe48630d06b25feeb51ba15f3862e",
+  "blockRule": {
+    "network": "bitcoin-mainnet",
+    "type": "on-demand-random-day-block/v1",
+    "day": "2026-11-13",
+    "timeZone": "Asia/Ulaanbaatar",
+    "windowStart": "2026-11-12T16:00:00Z",
+    "windowStartUnix": 1794499200,
+    "windowEnd": "2026-11-13T16:00:00Z",
+    "windowEndUnix": 1794585600,
+    "timestamp": "median-time-past",
+    "minedAfterAnchor": true,
+    "confirmations": 2,
+    "selection": {
+      "method": "hmac-sha256-rejection-sampling/v1",
+      "secretSha256": "72125b38103f4459cb5c68bd1bac12134f6d6a8e167ca863d17b592da5f13e67"
+    }
+  },
+  "anchor": {
+    "height": 975630,
+    "hash": "0000000000000000000045064c9ffc775fd12429f697e92968fe0a97e85a0923",
+    "header": "004042292168493d9233285d95498515736f662ddccc501222b300000000000000000000fdffdc3a1d69ec53d278b0c607dd02b56006748cc8533b68cb3d06a93f631601698ef66aace5011763bf07a1"
+  },
+  "lockedAt": "2026-11-13T05:21:31Z"
+}
